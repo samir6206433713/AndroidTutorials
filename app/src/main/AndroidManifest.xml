@@ -27,7 +27,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidTutorial">
-        <activity android:name=".networkcall.RetrofitUiActivity"></activity>
+        <activity android:name=".sharedpreference.MainActivityPreference"></activity>
+        <activity android:name=".networkcall.RetrofitUiActivity" />
         <activity android:name=".networkcall.AndroidRetrofit" />
         <activity android:name=".singletonclass.SingletonActivity" />
         <activity android:name=".abstractpostmortom.AbstractActivityPostmortam" /> <!-- <activity android:name=".runonUiThread.RunonuithreadActivity"></activity> -->
